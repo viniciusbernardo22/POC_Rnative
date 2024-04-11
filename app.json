@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "poc_expo",
+    "slug": "pocexpo-VpbG1K_MrjsV9a-X1G3yN",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0afe1692-4ae9-45c7-9a6f-6fded713b339"
+      }
+    },
+    "owner": "vinicius_bernardo"
+  }
+}
